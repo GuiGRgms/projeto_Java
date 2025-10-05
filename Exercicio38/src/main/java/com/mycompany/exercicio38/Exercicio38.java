@@ -9,14 +9,17 @@ o consumo do carro (km por litro) e o preço do combustível
 
 import java.util.Scanner;
 
+/*
+ ****************** @author GuiGRgms ******************
+ */
 public class Exercicio38 {
 
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
-        Double distanciadaViagem = 1.0;
+        Double distanciadaViagem = 3.0;
         Double valorkm = 90.00;
         Double valorcombustivel = 6.70;
-        Double combustivel = 1.0;
+        Double combustivel = 6.0;
         Double total = 0.0;
         total = total + ((distanciadaViagem * valorkm) + (combustivel * valorcombustivel));
         System.out.println("distancia da viagem: ");

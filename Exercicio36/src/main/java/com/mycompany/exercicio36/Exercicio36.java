@@ -11,7 +11,7 @@ package com.mycompany.exercicio36;
 import java.util.Scanner;
 
 /*
-****************** @author Guilherme Alves Silva e Santos ******************
+****************** @author GuiGRgms ******************
  */
 public class Exercicio36 {
 

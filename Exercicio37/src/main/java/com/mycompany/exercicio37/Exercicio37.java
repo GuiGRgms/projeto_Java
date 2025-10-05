@@ -3,7 +3,9 @@ package com.mycompany.exercicio37;
 Cálculo de Média Geométrica
 
 */
-
+/*
+ ****************** @author GuiGRgms ******************
+ */
 import java.util.Scanner;
 
 public class Exercicio37 {

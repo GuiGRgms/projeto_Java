@@ -10,7 +10,9 @@ se ele possui uma raiz quadrada exata
 Exiba a mensagem correspondente
 */
 public class Exercicio39 {
-
+/*
+ ****************** @author GuiGRgms ******************
+ */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("informe o numero 1: ");

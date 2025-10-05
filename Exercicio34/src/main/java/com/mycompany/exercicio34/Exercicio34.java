@@ -8,7 +8,7 @@ Exiba o maior valor e sua posição (linha e coluna) na matriz.
 */
 import java.util.Scanner;
 /*
-****************** @author Guilherme Alves Silva e Santos ******************
+****************** @author GuiGRgms ******************
 */
 public class Exercicio34 {
 
